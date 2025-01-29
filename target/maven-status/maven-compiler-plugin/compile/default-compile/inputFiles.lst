@@ -1,0 +1,17 @@
+/Users/karabeyaz/Desktop/projects/loan-api/src/main/java/com/karabeyaz/application/LoanApplication.java
+/Users/karabeyaz/Desktop/projects/loan-api/src/main/java/com/karabeyaz/application/config/SecurityConfig.java
+/Users/karabeyaz/Desktop/projects/loan-api/src/main/java/com/karabeyaz/application/constant/ErrorConstants.java
+/Users/karabeyaz/Desktop/projects/loan-api/src/main/java/com/karabeyaz/application/controller/AppErrorController.java
+/Users/karabeyaz/Desktop/projects/loan-api/src/main/java/com/karabeyaz/application/controller/LoanController.java
+/Users/karabeyaz/Desktop/projects/loan-api/src/main/java/com/karabeyaz/application/entity/Customer.java
+/Users/karabeyaz/Desktop/projects/loan-api/src/main/java/com/karabeyaz/application/entity/Loan.java
+/Users/karabeyaz/Desktop/projects/loan-api/src/main/java/com/karabeyaz/application/entity/LoanInstallment.java
+/Users/karabeyaz/Desktop/projects/loan-api/src/main/java/com/karabeyaz/application/enums/UserRole.java
+/Users/karabeyaz/Desktop/projects/loan-api/src/main/java/com/karabeyaz/application/model/CreateLoanRequest.java
+/Users/karabeyaz/Desktop/projects/loan-api/src/main/java/com/karabeyaz/application/model/PayLoanRequest.java
+/Users/karabeyaz/Desktop/projects/loan-api/src/main/java/com/karabeyaz/application/model/PayLoanResponse.java
+/Users/karabeyaz/Desktop/projects/loan-api/src/main/java/com/karabeyaz/application/repository/CustomerRepository.java
+/Users/karabeyaz/Desktop/projects/loan-api/src/main/java/com/karabeyaz/application/repository/LoanInstallmentRepository.java
+/Users/karabeyaz/Desktop/projects/loan-api/src/main/java/com/karabeyaz/application/repository/LoanRepository.java
+/Users/karabeyaz/Desktop/projects/loan-api/src/main/java/com/karabeyaz/application/service/LoanService.java
+/Users/karabeyaz/Desktop/projects/loan-api/src/main/java/com/karabeyaz/application/service/UserDetailsServiceImpl.java
